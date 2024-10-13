@@ -1,0 +1,1 @@
+This project showcases a simple heart trail animation when the cursor is moved across the screen. A trail of hearts of different sizes and changing colors appear when the cursor is moved across the screen.
